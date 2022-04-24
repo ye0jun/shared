@@ -1,0 +1,7 @@
+[Desktop Entry]
+Categories=Development;
+Exec=tauri-app
+Icon=tauri-app
+Name=tauri-app
+Terminal=false
+Type=Application

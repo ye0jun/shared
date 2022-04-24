@@ -1,0 +1,12 @@
+/home/kevin/tauri-app/src-tauri/target/release/deps/xattr-ff6f9cba83acf8e3.rmeta: /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/lib.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/error.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/mod.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/util.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/linux_macos/mod.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/linux_macos/linux.rs
+
+/home/kevin/tauri-app/src-tauri/target/release/deps/libxattr-ff6f9cba83acf8e3.rlib: /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/lib.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/error.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/mod.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/util.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/linux_macos/mod.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/linux_macos/linux.rs
+
+/home/kevin/tauri-app/src-tauri/target/release/deps/xattr-ff6f9cba83acf8e3.d: /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/lib.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/error.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/mod.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/util.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/linux_macos/mod.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/linux_macos/linux.rs
+
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/lib.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/error.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/mod.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/util.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/linux_macos/mod.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/linux_macos/linux.rs:

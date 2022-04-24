@@ -1,0 +1,14 @@
+/home/kevin/tauri-app/src-tauri/target/release/deps/tar-6d1e49eb458c6397.rmeta: /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/lib.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/archive.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/builder.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/entry.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/entry_type.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/error.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/header.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/pax.rs
+
+/home/kevin/tauri-app/src-tauri/target/release/deps/libtar-6d1e49eb458c6397.rlib: /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/lib.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/archive.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/builder.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/entry.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/entry_type.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/error.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/header.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/pax.rs
+
+/home/kevin/tauri-app/src-tauri/target/release/deps/tar-6d1e49eb458c6397.d: /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/lib.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/archive.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/builder.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/entry.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/entry_type.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/error.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/header.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/pax.rs
+
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/lib.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/archive.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/builder.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/entry.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/entry_type.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/error.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/header.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/tar-0.4.38/src/pax.rs:

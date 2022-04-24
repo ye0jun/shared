@@ -1,0 +1,13 @@
+/home/kevin/tauri-app/src-tauri/target/release/deps/sha2-36d8f658e426df3c.rmeta: /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/lib.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/core_api.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/sha256.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/sha512.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/consts.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/sha256/soft.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/sha512/soft.rs
+
+/home/kevin/tauri-app/src-tauri/target/release/deps/libsha2-36d8f658e426df3c.rlib: /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/lib.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/core_api.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/sha256.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/sha512.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/consts.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/sha256/soft.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/sha512/soft.rs
+
+/home/kevin/tauri-app/src-tauri/target/release/deps/sha2-36d8f658e426df3c.d: /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/lib.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/core_api.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/sha256.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/sha512.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/consts.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/sha256/soft.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/sha512/soft.rs
+
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/lib.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/core_api.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/sha256.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/sha512.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/consts.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/sha256/soft.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.2/src/sha512/soft.rs:

@@ -1,0 +1,11 @@
+/home/kevin/tauri-app/src-tauri/target/release/deps/unicode_segmentation-aaa803803d6e3e2c.rmeta: /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.9.0/src/lib.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.9.0/src/grapheme.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.9.0/src/sentence.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.9.0/src/word.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.9.0/src/tables.rs
+
+/home/kevin/tauri-app/src-tauri/target/release/deps/libunicode_segmentation-aaa803803d6e3e2c.rlib: /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.9.0/src/lib.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.9.0/src/grapheme.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.9.0/src/sentence.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.9.0/src/word.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.9.0/src/tables.rs
+
+/home/kevin/tauri-app/src-tauri/target/release/deps/unicode_segmentation-aaa803803d6e3e2c.d: /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.9.0/src/lib.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.9.0/src/grapheme.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.9.0/src/sentence.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.9.0/src/word.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.9.0/src/tables.rs
+
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.9.0/src/lib.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.9.0/src/grapheme.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.9.0/src/sentence.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.9.0/src/word.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-segmentation-1.9.0/src/tables.rs:

@@ -1,0 +1,12 @@
+/home/kevin/tauri-app/src-tauri/target/release/deps/version_compare-a1b7bc8a36fe109e.rmeta: /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/lib.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/cmp.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/compare.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/manifest.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/part.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/version.rs
+
+/home/kevin/tauri-app/src-tauri/target/release/deps/libversion_compare-a1b7bc8a36fe109e.rlib: /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/lib.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/cmp.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/compare.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/manifest.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/part.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/version.rs
+
+/home/kevin/tauri-app/src-tauri/target/release/deps/version_compare-a1b7bc8a36fe109e.d: /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/lib.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/cmp.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/compare.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/manifest.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/part.rs /home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/version.rs
+
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/lib.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/cmp.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/compare.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/manifest.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/part.rs:
+/home/kevin/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/version.rs:
